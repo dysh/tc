@@ -1,0 +1,10 @@
+USAGE:
+
+./tc.py treefile1 treefile2 >result_file
+
+tagfile (as in the example) must reside in the same directory as the treefiles
+
+DEPENDENCES:
+
+1. Python v.2&7
+2. Python library ETE2 (installed as pip install ETE2)  
